@@ -7,6 +7,8 @@
   *
   *If the guess is correct, the user types a c, at which point the
   *program will print out how many guesses it needed to guess correctly.
+  * 
+  *@Zack C., last edit: 12/27, 3:18 PM 
   */
  
 import java.util.*;
